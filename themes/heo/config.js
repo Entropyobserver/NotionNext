@@ -19,8 +19,8 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'Write smarter. Build faster. Innovate relentlessly.',
-  HEO_HERO_TITLE_2: 'Code like a pro. Think like a visionary.',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  #HEO_HERO_TITLE_2: 'Code like a pro. Think like a visionary.',
+  HEO_HERO_TITLE_3: 'EntropyObserver',
   HEO_HERO_TITLE_4: 'Turning bugs into breakthroughs.',
   HEO_HERO_TITLE_5: 'Where innovation meets execution.',
   HEO_HERO_TITLE_LINK: 'https://techenglish.top',
