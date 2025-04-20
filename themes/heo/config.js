@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2018-08-08', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://www.techenglish.top',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -123,10 +123,10 @@ const CONFIG = {
   HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
 
   // 底部统计面板文案
-  HEO_POST_COUNT_TITLE: '文章数:',
-  HEO_SITE_TIME_TITLE: '建站天数:',
-  HEO_SITE_VISIT_TITLE: '访问量:',
-  HEO_SITE_VISITOR_TITLE: '访客数:',
+  HEO_POST_COUNT_TITLE: 'Number of Posts:',
+  HEO_SITE_TIME_TITLE: 'Days Since Site Launch:',
+  HEO_SITE_VISIT_TITLE: 'Total Visits:',
+  HEO_SITE_VISITOR_TITLE: 'Number of Visitors:',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
