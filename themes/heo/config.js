@@ -124,7 +124,7 @@ const CONFIG = {
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: 'Number of Posts:',
-  HEO_SITE_TIME_TITLE: 'Days Since Site Launch:',
+  HEO_SITE_TIME_TITLE: 'Days Since Site Launch:' days,
   HEO_SITE_VISIT_TITLE: 'Total Visits:',
   HEO_SITE_VISITOR_TITLE: 'Number of Visitors:',
 
