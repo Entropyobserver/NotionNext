@@ -39,13 +39,13 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    'Hello! I am',
+    '🔍 Sharing knowledge with swagger, inspiring everyone around',
+    '🤝 Revolutionizing interaction and design with bold, modern innovation',
+    '🏃 Lightning-fast executor, making waves with impactful moves',
+    '🏠 Smart living perfected—where technology meets everyday luxury',
+    '🤖️ Pioneering the frontier of digital tech, always setting trends',
+    '🧱 The driving force behind team success, sparking creative breakthroughs',
   ],
 
   // 个人资料底部按钮
