@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: 'Welcome to My Blog', url: 'https://techenglish.top' },
-    { title: 'Visit the documentation center for more help', url: 'https://techenglish.top' }
+    { title: '', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
